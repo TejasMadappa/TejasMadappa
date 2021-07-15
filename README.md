@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TejasMadappa
+- 👋 Hi, I’m @Tejas
 - 👀 I’m interested in Learning Cloud Techonlogies like AWS, Kubernetes, ISTIO ...
 
 
